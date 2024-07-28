@@ -1,38 +1,20 @@
-name = "first1x" # todo
+name = "ifogx" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "first1x.cingoyen.my.id"
+pattern = "ifogx.cingoyen.my.id"
 custom_domain = true
 [[routes]]
-pattern = "whatsapp.net.first1x.cingoyen.my.id"
+pattern = "img.email3.vidio.com.ifogx.cingoyen.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.first1x.cingoyen.my.id"
+pattern = "ava.game.naver.com.ifogx.cingoyen.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.first1x.cingoyen.my.id"
-custom_domain = true
-[[routes]]
-pattern = "graph.instagram.com.first1x.cingoyen.my.id"
-custom_domain = true
-[[routes]]
-pattern = "cache.netflix.com.first1x.cingoyen.my.id"
-custom_domain = true
-[[routes]]
-pattern = "zaintest.vuclip.com.first1x.cingoyen.my.id"
-custom_domain = true
-[[routes]]
-pattern = "investors.spotify.com.first1x.cingoyen.my.id"
-custom_domain = true
-[[routes]]
-pattern = "live.iflix.com.first1x.cingoyen.my.id"
-custom_domain = true
-[[routes]]
-pattern = "blog.webex.com.first1x.cingoyen.my.id"
+pattern = "graph.instagram.com.ifogx.cingoyen.my.id"
 custom_domain = true
 
 [vars]
